@@ -20,7 +20,7 @@
 
 以下のリンクからブラウザ上で直接プレイできます：
 
-👉 **[ゲームをプレイする（GitHub Pages）](https://aorinrin1.github.io/OneButton/)**
+👉 **[ゲームをプレイする（GitHub Pages）](https://rinmarl.github.io/OneButton/)**
 
 ---
 
